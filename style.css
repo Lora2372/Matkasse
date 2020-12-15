@@ -133,6 +133,10 @@ body{
   padding-top: 100px;
 }
 
+.feature img{
+  max-width: 100%;
+}
+
 /* End details section */
 
 /*============ BOOTSTRAP BREAK POINTS:
